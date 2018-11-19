@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+   <item android:id="@+id/mca"
+          android:title="MCA"/>
+    <item android:id="@+id/btech"
+        android:title="B.Tech"/>
+    <item android:id="@+id/bca"
+        android:title="BCA"/>
+    <item android:id="@+id/mtech"
+        android:title="M.Tech"/>
+
+    <item android:id="@+id/bba"
+        android:title="BBA"/>
+    <item android:id="@+id/mba"
+        android:title="MBA"/>
+
+
+</menu>

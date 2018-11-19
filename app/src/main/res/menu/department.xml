@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/scse"
+        android:title="SCSE"></item>
+    <item android:id="@+id/law"
+        android:title="LAW"/>
+    <item android:id="@+id/business"
+        android:title="Business"/>
+</menu>
